@@ -1,0 +1,4 @@
+dist
+node_modules
+global.txt
+tsconfig.tsbuildinfo
